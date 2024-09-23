@@ -15,5 +15,10 @@
         }
      }
 
+     $iron = new Movie ('Iron Man', 'Azione /Fantasy', 2010);
+     $batman = new Movie ('Batman Begings','Azione/Thriller', 2008);
+
+     var_dump($iron);
+     var_dump($batman);
 ?>
 
